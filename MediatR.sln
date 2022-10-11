@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "MediatR\WebApi.csproj", "{3071C96F-5B48-426E-8AFE-24540958725B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{9EE467D5-7577-41B0-8B30-569E74EC70F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3071C96F-5B48-426E-8AFE-24540958725B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3071C96F-5B48-426E-8AFE-24540958725B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3071C96F-5B48-426E-8AFE-24540958725B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3071C96F-5B48-426E-8AFE-24540958725B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE467D5-7577-41B0-8B30-569E74EC70F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE467D5-7577-41B0-8B30-569E74EC70F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE467D5-7577-41B0-8B30-569E74EC70F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE467D5-7577-41B0-8B30-569E74EC70F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81BFAB41-161E-47D1-8825-835B5ED85A81}
+	EndGlobalSection
+EndGlobal
